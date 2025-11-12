@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\trabalho programa\u00E7\u00E3o\\trabalho programacao\\frmlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\trabalho programa\u00E7\u00E3o\\trabalho programacao\\frmfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\frmsugest\u00E3ofilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmsugest\u00E3ofilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\trabalho programa\u00E7\u00E3o\\trabalho programacao\\frmsugest\u00E3ofilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmsugest\u00E3ofilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\trabalho programa\u00E7\u00E3o\\trabalho programacao\\frmfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\trabalho programa\u00E7\u00E3o\\trabalho programacao\\frmsugest\u00E3olivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmsugest\u00E3olivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\frmminhaslistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmminhaslistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\trabalho programa\u00E7\u00E3o\\trabalho programacao\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\frmsugest\u00E3olivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmsugest\u00E3olivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\trabalho programa\u00E7\u00E3o\\trabalho programacao\\frmlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\trabalho programa\u00E7\u00E3o\\trabalho programacao\\frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:21:23.203Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmEntrada.cs",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmEntrada.cs",
+              "RelativeDocumentMoniker": "FrmEntrada.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmEntrada.cs",
+              "RelativeToolTip": "FrmEntrada.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAkwEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:24:49.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmSugest\u00E3oLivro.cs",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmSugest\u00E3oLivro.cs",
+              "RelativeDocumentMoniker": "FrmSugest\u00E3oLivro.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmSugest\u00E3oLivro.cs",
+              "RelativeToolTip": "FrmSugest\u00E3oLivro.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDgAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:57:18.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmFilme.cs",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmFilme.cs",
+              "RelativeDocumentMoniker": "FrmFilme.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmFilme.cs",
+              "RelativeToolTip": "FrmFilme.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:30:29.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSugest\u00E3oFilme.cs",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmSugest\u00E3oFilme.cs",
+              "RelativeDocumentMoniker": "FrmSugest\u00E3oFilme.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmSugest\u00E3oFilme.cs",
+              "RelativeToolTip": "FrmSugest\u00E3oFilme.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIAwwDQAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:25:43.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSugest\u00E3oFilme.cs [Design]",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmSugest\u00E3oFilme.cs",
+              "RelativeDocumentMoniker": "FrmSugest\u00E3oFilme.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmSugest\u00E3oFilme.cs [Design]",
+              "RelativeToolTip": "FrmSugest\u00E3oFilme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:28:26.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmFilme.cs [Design]",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmFilme.cs",
+              "RelativeDocumentMoniker": "FrmFilme.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmFilme.cs [Design]",
+              "RelativeToolTip": "FrmFilme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:00:33.637Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLivro.cs",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmLivro.cs",
+              "RelativeDocumentMoniker": "FrmLivro.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmLivro.cs",
+              "RelativeToolTip": "FrmLivro.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAzwDsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:23:29.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmLivro.cs [Design]",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmLivro.cs",
+              "RelativeDocumentMoniker": "FrmLivro.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmLivro.cs [Design]",
+              "RelativeToolTip": "FrmLivro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:13:06.314Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmSugest\u00E3oLivro.cs [Design]",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmSugest\u00E3oLivro.cs",
+              "RelativeDocumentMoniker": "FrmSugest\u00E3oLivro.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmSugest\u00E3oLivro.cs [Design]",
+              "RelativeToolTip": "FrmSugest\u00E3oLivro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:28:27.46Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmPerfil.cs",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmPerfil.cs",
+              "RelativeDocumentMoniker": "FrmPerfil.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmPerfil.cs",
+              "RelativeToolTip": "FrmPerfil.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:35:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMinhasListas.cs",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmMinhasListas.cs",
+              "RelativeDocumentMoniker": "FrmMinhasListas.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmMinhasListas.cs",
+              "RelativeToolTip": "FrmMinhasListas.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:30:15.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmHome.cs",
+              "RelativeDocumentMoniker": "FrmHome.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmHome.cs",
+              "RelativeToolTip": "FrmHome.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:29:59.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPerfil.cs [Design]",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmPerfil.cs",
+              "RelativeDocumentMoniker": "FrmPerfil.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmPerfil.cs [Design]",
+              "RelativeToolTip": "FrmPerfil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:28:23.372Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmHome.cs",
+              "RelativeDocumentMoniker": "FrmHome.cs",
+              "ToolTip": "D:\\Trabalho Programa\u00E7\u00E3o\\Trabalho Programacao\\FrmHome.cs [Design]",
+              "RelativeToolTip": "FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T11:28:17.149Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

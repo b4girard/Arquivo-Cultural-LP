@@ -1,0 +1,50 @@
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\Trabalho Programacao.exe.config
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\Trabalho Programacao.exe
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\Trabalho Programacao.pdb
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\BouncyCastle.Cryptography.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\Google.Protobuf.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\K4os.Compression.LZ4.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\K4os.Hash.xxHash.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\MySql.Data.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Buffers.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.IO.Pipelines.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Memory.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Numerics.Vectors.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\ZstdSharp.dll
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\BouncyCastle.Cryptography.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\Google.Protobuf.pdb
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\Google.Protobuf.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\K4os.Compression.LZ4.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\K4os.Hash.xxHash.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\MySql.Data.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Buffers.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.IO.Pipelines.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Memory.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Numerics.Vectors.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho Programacao.csproj.AssemblyReference.cache
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho_Programacao.Properties.Resources.resources
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho Programacao.csproj.GenerateResource.cache
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho Programacao.csproj.CoreCompileInputs.cache
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho.6924672C.Up2Date
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho Programacao.exe
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho Programacao.pdb
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho Programacao.exe.config
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho_Programacao.FrmFilme.resources
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho_Programacao.FrmLivro.resources
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho_Programacao.FrmCriarLista.resources
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho_Programacao.FrmMinhasListas.resources
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho_Programacao.FrmHome.resources
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho_Programacao.FrmEntrada.resources
+D:\ESCOLA\2º Ano\Programação\3ºTRIMESTRE\Trabalho Programação\Trabalho Programacao\obj\Debug\Trabalho_Programacao.FrmPerfil.resources
