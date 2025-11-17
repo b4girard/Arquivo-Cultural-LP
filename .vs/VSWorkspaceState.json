@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Trabalho Programacao"
+    "\\movies-and-books-log-main",
+    "\\movies-and-books-log-main\\src"
   ],
-  "SelectedNode": "\\Trabalho Programacao\\FrmFilme.Designer.cs",
+  "SelectedNode": "\\movies-and-books-log-main\\src\\FrmLivro.cs",
   "PreviewInSolutionExplorer": false
 }
