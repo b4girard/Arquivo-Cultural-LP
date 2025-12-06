@@ -63,5 +63,19 @@ namespace Trabalho_Programacao
         {
 
         }
+
+        private void avaliaramendoas_Click(object sender, EventArgs e)
+        {
+            var amendoas = new FrmAvaliacaoAmendoas(1);
+            amendoas.Show();
+            this.Hide();
+        }
+
+        private void avaliarjantarsecreto_Click(object sender, EventArgs e)
+        {
+            var jantarSecreto = new FrmAvaliacaoJantarSecreto();
+            jantarSecreto.Show();
+            this.Hide();
+        }
     }
 }

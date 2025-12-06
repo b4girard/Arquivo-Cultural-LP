@@ -98,46 +98,46 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmCriarLista.cs">
+    <Compile Include="user\FrmCriarLista.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmCriarLista.Designer.cs">
+    <Compile Include="user\FrmCriarLista.Designer.cs">
       <DependentUpon>FrmCriarLista.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmFilme.cs">
+    <Compile Include="admin\cadastro\FrmFilme.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmFilme.Designer.cs">
+    <Compile Include="admin\cadastro\FrmFilme.Designer.cs">
       <DependentUpon>FrmFilme.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmHome.cs">
+    <Compile Include="user\FrmHome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmHome.Designer.cs">
+    <Compile Include="user\FrmHome.Designer.cs">
       <DependentUpon>FrmHome.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmHomeADM.cs">
+    <Compile Include="admin\FrmHomeADM.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmHomeADM.Designer.cs">
+    <Compile Include="admin\FrmHomeADM.Designer.cs">
       <DependentUpon>FrmHomeADM.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmLivro.cs">
+    <Compile Include="admin\cadastro\FrmLivro.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmLivro.Designer.cs">
+    <Compile Include="admin\cadastro\FrmLivro.Designer.cs">
       <DependentUpon>FrmLivro.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmPerfil.cs">
+    <Compile Include="user\FrmPerfil.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmPerfil.Designer.cs">
+    <Compile Include="user\FrmPerfil.Designer.cs">
       <DependentUpon>FrmPerfil.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmMinhasListas.cs">
+    <Compile Include="user\FrmMinhasListas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmMinhasListas.Designer.cs">
+    <Compile Include="user\FrmMinhasListas.Designer.cs">
       <DependentUpon>FrmMinhasListas.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmEntrada.cs">
@@ -146,49 +146,61 @@
     <Compile Include="FrmEntrada.Designer.cs">
       <DependentUpon>FrmEntrada.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmSugestãoFilme.cs">
+    <Compile Include="user\sugestao\FrmSugestãoFilme.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmSugestãoFilme.Designer.cs">
+    <Compile Include="user\sugestao\FrmSugestãoFilme.Designer.cs">
       <DependentUpon>FrmSugestãoFilme.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmSugestãoLivro.cs">
+    <Compile Include="user\sugestao\FrmSugestãoLivro.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmSugestãoLivro.Designer.cs">
+    <Compile Include="user\sugestao\FrmSugestãoLivro.Designer.cs">
       <DependentUpon>FrmSugestãoLivro.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sessao.cs" />
-    <EmbeddedResource Include="FrmCriarLista.resx">
+    <Compile Include="user\reviewLivros\FrmAvaliacaoJantarSecreto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user\reviewLivros\FrmAvaliacaoJantarSecreto.Designer.cs">
+      <DependentUpon>FrmAvaliacaoJantarSecreto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user\reviewLivros\FrmAvaliacaoAmendoas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user\reviewLivros\FrmAvaliacaoAmendoas.Designer.cs">
+      <DependentUpon>FrmAvaliacaoAmendoas.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="user\FrmCriarLista.resx">
       <DependentUpon>FrmCriarLista.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmFilme.resx">
+    <EmbeddedResource Include="admin\cadastro\FrmFilme.resx">
       <DependentUpon>FrmFilme.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmHome.resx">
+    <EmbeddedResource Include="user\FrmHome.resx">
       <DependentUpon>FrmHome.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmHomeADM.resx">
+    <EmbeddedResource Include="admin\FrmHomeADM.resx">
       <DependentUpon>FrmHomeADM.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmLivro.resx">
+    <EmbeddedResource Include="admin\cadastro\FrmLivro.resx">
       <DependentUpon>FrmLivro.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmPerfil.resx">
+    <EmbeddedResource Include="user\FrmPerfil.resx">
       <DependentUpon>FrmPerfil.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmMinhasListas.resx">
+    <EmbeddedResource Include="user\FrmMinhasListas.resx">
       <DependentUpon>FrmMinhasListas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmEntrada.resx">
       <DependentUpon>FrmEntrada.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmSugestãoFilme.resx">
+    <EmbeddedResource Include="user\sugestao\FrmSugestãoFilme.resx">
       <DependentUpon>FrmSugestãoFilme.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmSugestãoLivro.resx">
+    <EmbeddedResource Include="user\sugestao\FrmSugestãoLivro.resx">
       <DependentUpon>FrmSugestãoLivro.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -200,6 +212,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="user\reviewLivros\FrmAvaliacaoAmendoas.resx">
+      <DependentUpon>FrmAvaliacaoAmendoas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user\reviewLivros\FrmAvaliacaoJantarSecreto.resx">
+      <DependentUpon>FrmAvaliacaoJantarSecreto.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

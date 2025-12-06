@@ -37,7 +37,13 @@
             this.SugestãoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.livrosUSUARIOToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.filmesUSUARIOToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.avaliarjantarsecreto = new System.Windows.Forms.Button();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.avaliaramendoas = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -73,7 +79,7 @@
             // 
             this.perfilUSUARIOToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("perfilUSUARIOToolStripMenuItem.Image")));
             this.perfilUSUARIOToolStripMenuItem.Name = "perfilUSUARIOToolStripMenuItem";
-            this.perfilUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.perfilUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(165, 24);
             this.perfilUSUARIOToolStripMenuItem.Text = "Perfil";
             this.perfilUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.perfilToolStripMenuItem_Click);
             // 
@@ -81,7 +87,7 @@
             // 
             this.criarListaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("criarListaToolStripMenuItem.Image")));
             this.criarListaToolStripMenuItem.Name = "criarListaToolStripMenuItem";
-            this.criarListaToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.criarListaToolStripMenuItem.Size = new System.Drawing.Size(165, 24);
             this.criarListaToolStripMenuItem.Text = "Criar Lista";
             this.criarListaToolStripMenuItem.Click += new System.EventHandler(this.criarListaToolStripMenuItem_Click);
             // 
@@ -89,7 +95,7 @@
             // 
             this.minhasListasToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("minhasListasToolStripMenuItem.Image")));
             this.minhasListasToolStripMenuItem.Name = "minhasListasToolStripMenuItem";
-            this.minhasListasToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.minhasListasToolStripMenuItem.Size = new System.Drawing.Size(165, 24);
             this.minhasListasToolStripMenuItem.Text = "Minhas Listas";
             this.minhasListasToolStripMenuItem.Click += new System.EventHandler(this.minhasListasToolStripMenuItem_Click);
             // 
@@ -110,7 +116,7 @@
             // 
             this.livrosUSUARIOToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("livrosUSUARIOToolStripMenuItem.Image")));
             this.livrosUSUARIOToolStripMenuItem.Name = "livrosUSUARIOToolStripMenuItem";
-            this.livrosUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.livrosUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(119, 24);
             this.livrosUSUARIOToolStripMenuItem.Text = "Livros";
             this.livrosUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.livrosToolStripMenuItem_Click);
             // 
@@ -118,9 +124,56 @@
             // 
             this.filmesUSUARIOToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("filmesUSUARIOToolStripMenuItem.Image")));
             this.filmesUSUARIOToolStripMenuItem.Name = "filmesUSUARIOToolStripMenuItem";
-            this.filmesUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.filmesUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(119, 24);
             this.filmesUSUARIOToolStripMenuItem.Text = "Filmes";
             this.filmesUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.filmesToolStripMenuItem_Click);
+            // 
+            // avaliarjantarsecreto
+            // 
+            this.avaliarjantarsecreto.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.avaliarjantarsecreto.FlatAppearance.BorderSize = 0;
+            this.avaliarjantarsecreto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.avaliarjantarsecreto.Font = new System.Drawing.Font("Franklin Gothic Book", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.avaliarjantarsecreto.Location = new System.Drawing.Point(405, 177);
+            this.avaliarjantarsecreto.Name = "avaliarjantarsecreto";
+            this.avaliarjantarsecreto.Size = new System.Drawing.Size(116, 33);
+            this.avaliarjantarsecreto.TabIndex = 11;
+            this.avaliarjantarsecreto.Text = "Avaliar";
+            this.avaliarjantarsecreto.UseVisualStyleBackColor = false;
+            this.avaliarjantarsecreto.Click += new System.EventHandler(this.avaliarjantarsecreto_Click);
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Location = new System.Drawing.Point(405, 38);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(116, 133);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 10;
+            this.pictureBox2.TabStop = false;
+            // 
+            // avaliaramendoas
+            // 
+            this.avaliaramendoas.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.avaliaramendoas.Cursor = System.Windows.Forms.Cursors.Default;
+            this.avaliaramendoas.FlatAppearance.BorderSize = 0;
+            this.avaliaramendoas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.avaliaramendoas.Font = new System.Drawing.Font("Franklin Gothic Book", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.avaliaramendoas.Location = new System.Drawing.Point(200, 177);
+            this.avaliaramendoas.Name = "avaliaramendoas";
+            this.avaliaramendoas.Size = new System.Drawing.Size(116, 33);
+            this.avaliaramendoas.TabIndex = 9;
+            this.avaliaramendoas.Text = "Avaliar";
+            this.avaliaramendoas.UseVisualStyleBackColor = false;
+            this.avaliaramendoas.Click += new System.EventHandler(this.avaliaramendoas_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(200, 38);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(116, 133);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 8;
+            this.pictureBox1.TabStop = false;
             // 
             // FrmHome
             // 
@@ -128,6 +181,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSlateGray;
             this.ClientSize = new System.Drawing.Size(1135, 471);
+            this.Controls.Add(this.avaliarjantarsecreto);
+            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.avaliaramendoas);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.menuStrip1);
             this.Name = "FrmHome";
             this.Text = "Página Inicial";
@@ -135,6 +192,8 @@
             this.Load += new System.EventHandler(this.FrmHome_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -150,5 +209,9 @@
         private System.Windows.Forms.ToolStripMenuItem criarListaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem minhasListasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem perfilUSUARIOToolStripMenuItem;
+        private System.Windows.Forms.Button avaliarjantarsecreto;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.Button avaliaramendoas;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\",
+  "WorkspaceRootPath": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador livros e filmes - lp\\movies-and-books-log-main\\src\\frmsugest\u00E3ofilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmsugest\u00E3ofilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\source\\repos\\registrador-filmes-e-livros-lp\\src\\admin\\cadastro\\frmlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:admin\\cadastro\\frmlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador livros e filmes - lp\\movies-and-books-log-main\\src\\frmsugest\u00E3olivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmsugest\u00E3olivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\source\\repos\\registrador-filmes-e-livros-lp\\src\\admin\\cadastro\\frmfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:admin\\cadastro\\frmfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\frmhomeadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmhomeadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\source\\repos\\registrador-filmes-e-livros-lp\\src\\admin\\frmhomeadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:admin\\frmhomeadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\source\\repos\\registrador-filmes-e-livros-lp\\src\\user\\reviewlivros\\frmavaliacaojantarsecreto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\reviewlivros\\frmavaliacaojantarsecreto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\documents\\registrador livros e filmes - lp\\movies-and-books-log-main\\src\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\source\\repos\\registrador-filmes-e-livros-lp\\src\\user\\reviewlivros\\frmavaliacaoamendoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\reviewlivros\\frmavaliacaoamendoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\frmfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\source\\repos\\registrador-filmes-e-livros-lp\\src\\user\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\frmlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\source\\repos\\registrador-filmes-e-livros-lp\\src\\user\\frmminhaslistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\frmminhaslistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\source\\repos\\registrador-filmes-e-livros-lp\\src\\user\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\source\\repos\\registrador-filmes-e-livros-lp\\src\\user\\frmcriarlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\frmcriarlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\frmcriarlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmcriarlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\source\\repos\\registrador-filmes-e-livros-lp\\src\\user\\sugestao\\frmsugest\u00E3olivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\sugestao\\frmsugest\u00E3olivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\frmminhaslistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmminhaslistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|c:\\users\\rosso\\source\\repos\\registrador-filmes-e-livros-lp\\src\\user\\sugestao\\frmsugest\u00E3ofilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\sugestao\\frmsugest\u00E3ofilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,143 +54,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmPerfil.cs",
-              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmPerfil.cs",
-              "RelativeDocumentMoniker": "FrmPerfil.cs",
-              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmPerfil.cs",
-              "RelativeToolTip": "FrmPerfil.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T18:36:51.645Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmEntrada.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmEntrada.cs",
-              "RelativeDocumentMoniker": "FrmEntrada.cs",
-              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmEntrada.cs [Design]",
-              "RelativeToolTip": "FrmEntrada.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "FrmLivro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\admin\\cadastro\\FrmLivro.cs",
+              "RelativeDocumentMoniker": "admin\\cadastro\\FrmLivro.cs",
+              "ToolTip": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\admin\\cadastro\\FrmLivro.cs [Design]",
+              "RelativeToolTip": "admin\\cadastro\\FrmLivro.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T01:32:26.618Z",
+              "WhenOpened": "2025-12-06T19:43:11.678Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmHome.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmHome.cs",
-              "RelativeDocumentMoniker": "FrmHome.cs",
-              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmHome.cs [Design]",
-              "RelativeToolTip": "FrmHome.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "FrmFilme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\admin\\cadastro\\FrmFilme.cs",
+              "RelativeDocumentMoniker": "admin\\cadastro\\FrmFilme.cs",
+              "ToolTip": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\admin\\cadastro\\FrmFilme.cs [Design]",
+              "RelativeToolTip": "admin\\cadastro\\FrmFilme.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T01:32:28.557Z",
+              "WhenOpened": "2025-12-06T19:43:10.522Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FrmHomeADM.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmHomeADM.cs",
-              "RelativeDocumentMoniker": "FrmHomeADM.cs",
-              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmHomeADM.cs [Design]",
-              "RelativeToolTip": "FrmHomeADM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\admin\\FrmHomeADM.cs",
+              "RelativeDocumentMoniker": "admin\\FrmHomeADM.cs",
+              "ToolTip": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\admin\\FrmHomeADM.cs [Design]",
+              "RelativeToolTip": "admin\\FrmHomeADM.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T01:32:29.504Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmSugest\u00E3oLivro.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmSugest\u00E3oLivro.cs",
-              "RelativeDocumentMoniker": "FrmSugest\u00E3oLivro.cs",
-              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmSugest\u00E3oLivro.cs [Design]",
-              "RelativeToolTip": "FrmSugest\u00E3oLivro.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T01:32:33.74Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmSugest\u00E3oFilme.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmSugest\u00E3oFilme.cs",
-              "RelativeDocumentMoniker": "FrmSugest\u00E3oFilme.cs",
-              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmSugest\u00E3oFilme.cs [Design]",
-              "RelativeToolTip": "FrmSugest\u00E3oFilme.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T17:48:27.201Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmLivro.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmLivro.cs",
-              "RelativeDocumentMoniker": "FrmLivro.cs",
-              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmLivro.cs [Design]",
-              "RelativeToolTip": "FrmLivro.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T01:32:30.35Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmFilme.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmFilme.cs",
-              "RelativeDocumentMoniker": "FrmFilme.cs",
-              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmFilme.cs [Design]",
-              "RelativeToolTip": "FrmFilme.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T01:32:27.755Z",
+              "WhenOpened": "2025-12-06T19:43:08.926Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrmPerfil.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmPerfil.cs",
-              "RelativeDocumentMoniker": "FrmPerfil.cs",
-              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmPerfil.cs [Design]",
-              "RelativeToolTip": "FrmPerfil.cs [Design]",
+              "Title": "FrmAvaliacaoJantarSecreto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\reviewLivros\\FrmAvaliacaoJantarSecreto.cs",
+              "RelativeDocumentMoniker": "user\\reviewLivros\\FrmAvaliacaoJantarSecreto.cs",
+              "ToolTip": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\reviewLivros\\FrmAvaliacaoJantarSecreto.cs [Design]",
+              "RelativeToolTip": "user\\reviewLivros\\FrmAvaliacaoJantarSecreto.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T01:32:31.87Z",
+              "WhenOpened": "2025-12-06T19:43:06.681Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FrmMinhasListas.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmMinhasListas.cs",
-              "RelativeDocumentMoniker": "FrmMinhasListas.cs",
-              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmMinhasListas.cs [Design]",
-              "RelativeToolTip": "FrmMinhasListas.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "FrmAvaliacaoAmendoas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\reviewLivros\\FrmAvaliacaoAmendoas.cs",
+              "RelativeDocumentMoniker": "user\\reviewLivros\\FrmAvaliacaoAmendoas.cs",
+              "ToolTip": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\reviewLivros\\FrmAvaliacaoAmendoas.cs [Design]",
+              "RelativeToolTip": "user\\reviewLivros\\FrmAvaliacaoAmendoas.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T01:32:30.99Z",
+              "WhenOpened": "2025-12-06T19:43:03.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPerfil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\FrmPerfil.cs",
+              "RelativeDocumentMoniker": "user\\FrmPerfil.cs",
+              "ToolTip": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\FrmPerfil.cs [Design]",
+              "RelativeToolTip": "user\\FrmPerfil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T19:43:01.691Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMinhasListas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\FrmMinhasListas.cs",
+              "RelativeDocumentMoniker": "user\\FrmMinhasListas.cs",
+              "ToolTip": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\FrmMinhasListas.cs [Design]",
+              "RelativeToolTip": "user\\FrmMinhasListas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T19:43:00.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\FrmHome.cs",
+              "RelativeDocumentMoniker": "user\\FrmHome.cs",
+              "ToolTip": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\FrmHome.cs [Design]",
+              "RelativeToolTip": "user\\FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T19:42:59.215Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmCriarLista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\FrmCriarLista.cs",
+              "RelativeDocumentMoniker": "user\\FrmCriarLista.cs",
+              "ToolTip": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\FrmCriarLista.cs [Design]",
+              "RelativeToolTip": "user\\FrmCriarLista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T19:42:58.259Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "FrmCriarLista.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmCriarLista.cs",
-              "RelativeDocumentMoniker": "FrmCriarLista.cs",
-              "ToolTip": "C:\\Users\\rosso\\Documents\\Registrador Livros e Filmes - LP\\movies-and-books-log-main\\src\\FrmCriarLista.cs [Design]",
-              "RelativeToolTip": "FrmCriarLista.cs [Design]",
+              "Title": "FrmSugest\u00E3oLivro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\sugestao\\FrmSugest\u00E3oLivro.cs",
+              "RelativeDocumentMoniker": "user\\sugestao\\FrmSugest\u00E3oLivro.cs",
+              "ToolTip": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\sugestao\\FrmSugest\u00E3oLivro.cs [Design]",
+              "RelativeToolTip": "user\\sugestao\\FrmSugest\u00E3oLivro.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T01:32:25.418Z",
+              "WhenOpened": "2025-12-06T19:42:56.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmSugest\u00E3oFilme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\sugestao\\FrmSugest\u00E3oFilme.cs",
+              "RelativeDocumentMoniker": "user\\sugestao\\FrmSugest\u00E3oFilme.cs",
+              "ToolTip": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\user\\sugestao\\FrmSugest\u00E3oFilme.cs [Design]",
+              "RelativeToolTip": "user\\sugestao\\FrmSugest\u00E3oFilme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T19:42:55.018Z",
               "EditorCaption": " [Design]"
             }
           ]
