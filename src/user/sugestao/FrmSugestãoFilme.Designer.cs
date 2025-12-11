@@ -77,7 +77,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(124, 471);
+            this.menuStrip1.Size = new System.Drawing.Size(117, 471);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -91,14 +91,14 @@
             this.minhaAreaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("minhaAreaToolStripMenuItem.Image")));
             this.minhaAreaToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.minhaAreaToolStripMenuItem.Name = "minhaAreaToolStripMenuItem";
-            this.minhaAreaToolStripMenuItem.Size = new System.Drawing.Size(115, 24);
+            this.minhaAreaToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
             this.minhaAreaToolStripMenuItem.Text = "Minha Área";
             // 
             // perfilUSUARIOToolStripMenuItem
             // 
             this.perfilUSUARIOToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("perfilUSUARIOToolStripMenuItem.Image")));
             this.perfilUSUARIOToolStripMenuItem.Name = "perfilUSUARIOToolStripMenuItem";
-            this.perfilUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.perfilUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(165, 24);
             this.perfilUSUARIOToolStripMenuItem.Text = "Perfil";
             this.perfilUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.perfilUSUARIOToolStripMenuItem_Click);
             // 
@@ -106,7 +106,7 @@
             // 
             this.criarListaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("criarListaToolStripMenuItem.Image")));
             this.criarListaToolStripMenuItem.Name = "criarListaToolStripMenuItem";
-            this.criarListaToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.criarListaToolStripMenuItem.Size = new System.Drawing.Size(165, 24);
             this.criarListaToolStripMenuItem.Text = "Criar Lista";
             this.criarListaToolStripMenuItem.Click += new System.EventHandler(this.criarListaToolStripMenuItem_Click);
             // 
@@ -114,7 +114,7 @@
             // 
             this.minhasListasToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("minhasListasToolStripMenuItem.Image")));
             this.minhasListasToolStripMenuItem.Name = "minhasListasToolStripMenuItem";
-            this.minhasListasToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.minhasListasToolStripMenuItem.Size = new System.Drawing.Size(165, 24);
             this.minhasListasToolStripMenuItem.Text = "Minhas Listas";
             this.minhasListasToolStripMenuItem.Click += new System.EventHandler(this.minhasListasToolStripMenuItem_Click);
             // 
@@ -127,14 +127,14 @@
             this.SugestãoToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("SugestãoToolStripMenuItem.Image")));
             this.SugestãoToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.SugestãoToolStripMenuItem.Name = "SugestãoToolStripMenuItem";
-            this.SugestãoToolStripMenuItem.Size = new System.Drawing.Size(115, 24);
+            this.SugestãoToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
             this.SugestãoToolStripMenuItem.Text = "Sugestão";
             // 
             // livrosUSUARIOToolStripMenuItem
             // 
             this.livrosUSUARIOToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("livrosUSUARIOToolStripMenuItem.Image")));
             this.livrosUSUARIOToolStripMenuItem.Name = "livrosUSUARIOToolStripMenuItem";
-            this.livrosUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.livrosUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(119, 24);
             this.livrosUSUARIOToolStripMenuItem.Text = "Livros";
             this.livrosUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.livrosUSUARIOToolStripMenuItem_Click);
             // 
@@ -142,7 +142,7 @@
             // 
             this.filmesUSUARIOToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("filmesUSUARIOToolStripMenuItem.Image")));
             this.filmesUSUARIOToolStripMenuItem.Name = "filmesUSUARIOToolStripMenuItem";
-            this.filmesUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.filmesUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(119, 24);
             this.filmesUSUARIOToolStripMenuItem.Text = "Filmes";
             this.filmesUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.filmesUSUARIOToolStripMenuItem_Click);
             // 
@@ -173,6 +173,7 @@
             // 
             this.idiomaoriginalSugestao.BackColor = System.Drawing.Color.LightSlateGray;
             this.idiomaoriginalSugestao.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.idiomaoriginalSugestao.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.idiomaoriginalSugestao.Location = new System.Drawing.Point(179, 275);
             this.idiomaoriginalSugestao.Name = "idiomaoriginalSugestao";
             this.idiomaoriginalSugestao.Size = new System.Drawing.Size(176, 13);
@@ -235,6 +236,7 @@
             // 
             this.anolancamentoSugestao.BackColor = System.Drawing.Color.LightSlateGray;
             this.anolancamentoSugestao.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.anolancamentoSugestao.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.anolancamentoSugestao.Location = new System.Drawing.Point(179, 310);
             this.anolancamentoSugestao.Name = "anolancamentoSugestao";
             this.anolancamentoSugestao.Size = new System.Drawing.Size(176, 13);
@@ -244,6 +246,7 @@
             // 
             this.diretorSugestao.BackColor = System.Drawing.Color.LightSlateGray;
             this.diretorSugestao.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.diretorSugestao.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.diretorSugestao.Location = new System.Drawing.Point(179, 135);
             this.diretorSugestao.Name = "diretorSugestao";
             this.diretorSugestao.Size = new System.Drawing.Size(176, 13);
@@ -253,6 +256,7 @@
             // 
             this.tituloSugestao.BackColor = System.Drawing.Color.LightSlateGray;
             this.tituloSugestao.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.tituloSugestao.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.tituloSugestao.Location = new System.Drawing.Point(179, 100);
             this.tituloSugestao.Name = "tituloSugestao";
             this.tituloSugestao.Size = new System.Drawing.Size(176, 13);
@@ -262,6 +266,7 @@
             // 
             this.imdbSugestao.BackColor = System.Drawing.Color.LightSlateGray;
             this.imdbSugestao.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.imdbSugestao.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.imdbSugestao.Location = new System.Drawing.Point(179, 65);
             this.imdbSugestao.Name = "imdbSugestao";
             this.imdbSugestao.Size = new System.Drawing.Size(176, 13);
@@ -315,6 +320,7 @@
             // 
             this.descricaoSugestao.BackColor = System.Drawing.Color.LightSlateGray;
             this.descricaoSugestao.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.descricaoSugestao.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.descricaoSugestao.Location = new System.Drawing.Point(179, 170);
             this.descricaoSugestao.Name = "descricaoSugestao";
             this.descricaoSugestao.Size = new System.Drawing.Size(176, 83);
@@ -335,6 +341,8 @@
             // panel7
             // 
             this.panel7.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.panel7.Location = new System.Drawing.Point(179, 252);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(180, 2);
@@ -343,6 +351,8 @@
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.panel5.Location = new System.Drawing.Point(179, 322);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(180, 2);
@@ -351,6 +361,8 @@
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.panel4.Location = new System.Drawing.Point(179, 287);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(180, 2);
@@ -359,6 +371,8 @@
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.panel3.Location = new System.Drawing.Point(179, 147);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(180, 2);
@@ -367,6 +381,8 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.panel2.Location = new System.Drawing.Point(179, 112);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(180, 2);
@@ -375,6 +391,8 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.panel1.Location = new System.Drawing.Point(179, 77);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(180, 2);

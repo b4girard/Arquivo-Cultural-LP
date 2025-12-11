@@ -268,3 +268,63 @@ D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.Usuario.Avaliacoes_Liv
 D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.Usuario.Avaliacoes_Livros.FrmVerJantarSecreto.resources
 D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.user.reviewFilmes.Wicked_For_Good.FrmAvaliacaoWickedForGood.resources
 D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.user.reviewFilmes.FrmVerWickedForGood.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\Trabalho Programacao.exe.config
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\Trabalho Programacao.exe
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\Trabalho Programacao.pdb
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\Google.Protobuf.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\MySql.Data.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Buffers.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.IO.Pipelines.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Memory.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\ZstdSharp.dll
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\Google.Protobuf.pdb
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\Google.Protobuf.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\MySql.Data.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Buffers.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.IO.Pipelines.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Memory.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Registrador Filmes e Livros.csproj.AssemblyReference.cache
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.FrmCriarLista.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.FrmFilme.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.FrmHome.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.FrmHomeADM.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.FrmLivro.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.FrmPerfil.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.FrmMinhasListas.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.FrmEntrada.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.user.reviewFilmes.The_Good_Father.FrmAvaliacaoTheGoodFather.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.user.reviewFilmes.FrmVerTheGoodFather.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.user.reviewFilmes.Wicked_For_Good.FrmAvaliacaoWickedForGood.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.user.reviewFilmes.FrmVerWickedForGood.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.user.reviewLivros.Amendoas.FrmAvaliacaoAmendoas.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.user.reviewLivros.Jantar_Secreto.FrmAvaliacaoJantarSecreto.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.FrmSugestaoFilme.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.FrmSugestaoLivro.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.Properties.Resources.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.Usuario.Avaliacoes_Livros.FrmVerAmendoas.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho_Programacao.Usuario.Avaliacoes_Livros.FrmVerJantarSecreto.resources
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Registrador Filmes e Livros.csproj.GenerateResource.cache
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Registrador Filmes e Livros.csproj.CoreCompileInputs.cache
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Registra.864078D6.Up2Date
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho Programacao.exe
+C:\Users\rosso\Source\Repos\Registrador-Filmes-e-Livros-LP\src\obj\Debug\Trabalho Programacao.pdb

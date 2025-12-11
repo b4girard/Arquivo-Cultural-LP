@@ -235,7 +235,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(124, 471);
+            this.menuStrip1.Size = new System.Drawing.Size(117, 471);
             this.menuStrip1.TabIndex = 30;
             this.menuStrip1.Text = "Area Administrador";
             // 
@@ -245,7 +245,7 @@
             this.AreaADMToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("AreaADMToolStripMenuItem.Image")));
             this.AreaADMToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.AreaADMToolStripMenuItem.Name = "AreaADMToolStripMenuItem";
-            this.AreaADMToolStripMenuItem.Size = new System.Drawing.Size(115, 24);
+            this.AreaADMToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
             this.AreaADMToolStripMenuItem.Text = "Minha Área";
             this.AreaADMToolStripMenuItem.Click += new System.EventHandler(this.AreaADMToolStripMenuItem_Click);
             // 
@@ -258,14 +258,14 @@
             this.cadastroToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("cadastroToolStripMenuItem.Image")));
             this.cadastroToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.cadastroToolStripMenuItem.Name = "cadastroToolStripMenuItem";
-            this.cadastroToolStripMenuItem.Size = new System.Drawing.Size(115, 24);
+            this.cadastroToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
             this.cadastroToolStripMenuItem.Text = "Cadastro";
             // 
             // LivrosToolStripMenuItem
             // 
             this.LivrosToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("LivrosToolStripMenuItem.Image")));
             this.LivrosToolStripMenuItem.Name = "LivrosToolStripMenuItem";
-            this.LivrosToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.LivrosToolStripMenuItem.Size = new System.Drawing.Size(119, 24);
             this.LivrosToolStripMenuItem.Text = "Livros";
             this.LivrosToolStripMenuItem.Click += new System.EventHandler(this.LivrosToolStripMenuItem_Click);
             // 
@@ -273,7 +273,7 @@
             // 
             this.FilmesToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("FilmesToolStripMenuItem.Image")));
             this.FilmesToolStripMenuItem.Name = "FilmesToolStripMenuItem";
-            this.FilmesToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.FilmesToolStripMenuItem.Size = new System.Drawing.Size(119, 24);
             this.FilmesToolStripMenuItem.Text = "Filmes";
             this.FilmesToolStripMenuItem.Click += new System.EventHandler(this.FilmesToolStripMenuItem_Click);
             // 
@@ -339,6 +339,7 @@
             // panel7
             // 
             this.panel7.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel7.Location = new System.Drawing.Point(179, 252);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(180, 2);
@@ -347,6 +348,7 @@
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel5.Location = new System.Drawing.Point(179, 322);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(180, 2);
@@ -355,6 +357,7 @@
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel4.Location = new System.Drawing.Point(179, 287);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(180, 2);
@@ -363,6 +366,7 @@
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel3.Location = new System.Drawing.Point(179, 147);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(180, 2);
@@ -371,6 +375,7 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel2.Location = new System.Drawing.Point(179, 112);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(180, 2);
@@ -379,6 +384,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel1.Location = new System.Drawing.Point(179, 77);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(180, 2);

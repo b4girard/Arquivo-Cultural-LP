@@ -58,7 +58,7 @@
             // 
             this.listComentarios.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listComentarios.FormattingEnabled = true;
-            this.listComentarios.Location = new System.Drawing.Point(300, 19);
+            this.listComentarios.Location = new System.Drawing.Point(19, 251);
             this.listComentarios.Name = "listComentarios";
             this.listComentarios.Size = new System.Drawing.Size(340, 208);
             this.listComentarios.TabIndex = 38;
@@ -79,7 +79,7 @@
             // ano
             // 
             this.ano.AutoSize = true;
-            this.ano.Location = new System.Drawing.Point(141, 241);
+            this.ano.Location = new System.Drawing.Point(141, 231);
             this.ano.Name = "ano";
             this.ano.Size = new System.Drawing.Size(35, 13);
             this.ano.TabIndex = 45;
@@ -88,7 +88,7 @@
             // idiomaoriginal
             // 
             this.idiomaoriginal.AutoSize = true;
-            this.idiomaoriginal.Location = new System.Drawing.Point(141, 197);
+            this.idiomaoriginal.Location = new System.Drawing.Point(141, 189);
             this.idiomaoriginal.Name = "idiomaoriginal";
             this.idiomaoriginal.Size = new System.Drawing.Size(35, 13);
             this.idiomaoriginal.TabIndex = 44;
@@ -97,7 +97,7 @@
             // descricao
             // 
             this.descricao.AutoSize = true;
-            this.descricao.Location = new System.Drawing.Point(141, 153);
+            this.descricao.Location = new System.Drawing.Point(141, 147);
             this.descricao.Name = "descricao";
             this.descricao.Size = new System.Drawing.Size(35, 13);
             this.descricao.TabIndex = 43;
@@ -106,7 +106,7 @@
             // diretor
             // 
             this.diretor.AutoSize = true;
-            this.diretor.Location = new System.Drawing.Point(141, 109);
+            this.diretor.Location = new System.Drawing.Point(141, 105);
             this.diretor.Name = "diretor";
             this.diretor.Size = new System.Drawing.Size(35, 13);
             this.diretor.TabIndex = 42;
@@ -115,7 +115,7 @@
             // titulo
             // 
             this.titulo.AutoSize = true;
-            this.titulo.Location = new System.Drawing.Point(141, 65);
+            this.titulo.Location = new System.Drawing.Point(141, 63);
             this.titulo.Name = "titulo";
             this.titulo.Size = new System.Drawing.Size(35, 13);
             this.titulo.TabIndex = 41;
@@ -156,7 +156,7 @@
             this.Controls.Add(this.listComentarios);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FrmVerWickedForGood";
             this.Text = "Ver - Wicked: For Good";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;

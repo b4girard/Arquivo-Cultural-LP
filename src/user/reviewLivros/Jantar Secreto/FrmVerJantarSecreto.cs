@@ -88,8 +88,7 @@ namespace Trabalho_Programacao.Usuario.Avaliacoes_Livros
                 using (MySqlConnection bdConn = new MySqlConnection(StringConexao()))
                 {
                     bdConn.Open();
-
-                    string sql = @"SELECT a.Comentario, a.Data_avaliacao, u.Nome
+                    string sql = @"SELECT a.ID_usuario, a.Comentario, a.Data_avaliacao, u.Nome
                                    FROM Avaliacao a
                                    JOIN Usuario u ON u.ID_usuario = a.ID_usuario
                                    WHERE a.ID_livro = @livro
@@ -104,7 +103,7 @@ namespace Trabalho_Programacao.Usuario.Avaliacoes_Livros
                             while (dr.Read())
                             {
                                 string linha =
-                                    $"{dr.GetString("Usuario")} — {dr.GetDateTime("Data_avaliacao").ToString("dd/MM/yyyy")}\n" + " " +
+                                    $"{dr.GetInt32("ID_usuario")} — {dr.GetDateTime("Data_avaliacao").ToString("dd/MM/yyyy")}\n" + " " +
                                     $"{dr.GetString("Comentario")}";
 
                                 listComentarios.Items.Add(linha);

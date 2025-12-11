@@ -59,7 +59,7 @@
             // 
             this.listComentarios.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listComentarios.FormattingEnabled = true;
-            this.listComentarios.Location = new System.Drawing.Point(300, 19);
+            this.listComentarios.Location = new System.Drawing.Point(19, 251);
             this.listComentarios.Name = "listComentarios";
             this.listComentarios.Size = new System.Drawing.Size(340, 208);
             this.listComentarios.TabIndex = 27;
@@ -68,7 +68,7 @@
             // n_pag
             // 
             this.n_pag.AutoSize = true;
-            this.n_pag.Location = new System.Drawing.Point(141, 273);
+            this.n_pag.Location = new System.Drawing.Point(141, 231);
             this.n_pag.Name = "n_pag";
             this.n_pag.Size = new System.Drawing.Size(35, 13);
             this.n_pag.TabIndex = 26;
@@ -77,7 +77,7 @@
             // editora
             // 
             this.editora.AutoSize = true;
-            this.editora.Location = new System.Drawing.Point(141, 231);
+            this.editora.Location = new System.Drawing.Point(141, 189);
             this.editora.Name = "editora";
             this.editora.Size = new System.Drawing.Size(35, 13);
             this.editora.TabIndex = 25;
@@ -86,7 +86,7 @@
             // idioma
             // 
             this.idioma.AutoSize = true;
-            this.idioma.Location = new System.Drawing.Point(141, 189);
+            this.idioma.Location = new System.Drawing.Point(141, 147);
             this.idioma.Name = "idioma";
             this.idioma.Size = new System.Drawing.Size(35, 13);
             this.idioma.TabIndex = 24;
@@ -95,7 +95,7 @@
             // descricao
             // 
             this.descricao.AutoSize = true;
-            this.descricao.Location = new System.Drawing.Point(141, 147);
+            this.descricao.Location = new System.Drawing.Point(324, 21);
             this.descricao.Name = "descricao";
             this.descricao.Size = new System.Drawing.Size(35, 13);
             this.descricao.TabIndex = 23;

@@ -57,9 +57,6 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.senhaAtual = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
             this.labEmail = new System.Windows.Forms.Label();
             this.labNome = new System.Windows.Forms.Label();
             this.labUsuario = new System.Windows.Forms.Label();
@@ -184,7 +181,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(124, 471);
+            this.menuStrip1.Size = new System.Drawing.Size(117, 471);
             this.menuStrip1.TabIndex = 9;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -198,7 +195,7 @@
             this.minhaAreaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("minhaAreaToolStripMenuItem.Image")));
             this.minhaAreaToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.minhaAreaToolStripMenuItem.Name = "minhaAreaToolStripMenuItem";
-            this.minhaAreaToolStripMenuItem.Size = new System.Drawing.Size(115, 24);
+            this.minhaAreaToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
             this.minhaAreaToolStripMenuItem.Text = "Minha Área";
             // 
             // perfilUSUARIOToolStripMenuItem
@@ -234,7 +231,7 @@
             this.SugestãoToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("SugestãoToolStripMenuItem.Image")));
             this.SugestãoToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.SugestãoToolStripMenuItem.Name = "SugestãoToolStripMenuItem";
-            this.SugestãoToolStripMenuItem.Size = new System.Drawing.Size(115, 24);
+            this.SugestãoToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
             this.SugestãoToolStripMenuItem.Text = "Sugestão";
             // 
             // livrosUSUARIOToolStripMenuItem
@@ -258,7 +255,7 @@
             this.homeToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("homeToolStripMenuItem.Image")));
             this.homeToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.homeToolStripMenuItem.Name = "homeToolStripMenuItem";
-            this.homeToolStripMenuItem.Size = new System.Drawing.Size(115, 24);
+            this.homeToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
             this.homeToolStripMenuItem.Text = "Home";
             this.homeToolStripMenuItem.Click += new System.EventHandler(this.homeToolStripMenuItem_Click);
             // 
@@ -276,6 +273,7 @@
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel5.Location = new System.Drawing.Point(490, 238);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(180, 2);
@@ -284,6 +282,7 @@
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel6.Location = new System.Drawing.Point(490, 203);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(180, 2);
@@ -292,6 +291,7 @@
             // panel7
             // 
             this.panel7.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel7.Location = new System.Drawing.Point(490, 168);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(180, 2);
@@ -300,6 +300,7 @@
             // panel8
             // 
             this.panel8.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel8.Location = new System.Drawing.Point(490, 133);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(180, 2);
@@ -309,7 +310,7 @@
             // 
             this.listMinhasAvaliacoes.FormattingEnabled = true;
             this.listMinhasAvaliacoes.Location = new System.Drawing.Point(179, 266);
-            this.listMinhasAvaliacoes.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.listMinhasAvaliacoes.Margin = new System.Windows.Forms.Padding(2);
             this.listMinhasAvaliacoes.Name = "listMinhasAvaliacoes";
             this.listMinhasAvaliacoes.Size = new System.Drawing.Size(286, 95);
             this.listMinhasAvaliacoes.TabIndex = 52;
@@ -317,6 +318,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.LightSlateGray;
+            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel1.Location = new System.Drawing.Point(490, 275);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(180, 2);
@@ -341,41 +343,11 @@
             this.label5.TabIndex = 53;
             this.label5.Text = "Senha Atual";
             // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Franklin Gothic Book", 10F);
-            this.label8.Location = new System.Drawing.Point(176, 113);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(44, 18);
-            this.label8.TabIndex = 58;
-            this.label8.Text = "E-mail";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Franklin Gothic Book", 10F);
-            this.label9.Location = new System.Drawing.Point(176, 77);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(100, 18);
-            this.label9.TabIndex = 57;
-            this.label9.Text = "Nome Completo";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Franklin Gothic Book", 10F);
-            this.label10.Location = new System.Drawing.Point(176, 43);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(53, 18);
-            this.label10.TabIndex = 56;
-            this.label10.Text = "Usuário";
-            // 
             // labEmail
             // 
             this.labEmail.AutoSize = true;
             this.labEmail.Font = new System.Drawing.Font("Franklin Gothic Book", 10F);
-            this.labEmail.Location = new System.Drawing.Point(182, 129);
+            this.labEmail.Location = new System.Drawing.Point(488, 185);
             this.labEmail.Name = "labEmail";
             this.labEmail.Size = new System.Drawing.Size(39, 18);
             this.labEmail.TabIndex = 71;
@@ -385,7 +357,7 @@
             // 
             this.labNome.AutoSize = true;
             this.labNome.Font = new System.Drawing.Font("Franklin Gothic Book", 10F);
-            this.labNome.Location = new System.Drawing.Point(182, 94);
+            this.labNome.Location = new System.Drawing.Point(488, 150);
             this.labNome.Name = "labNome";
             this.labNome.Size = new System.Drawing.Size(41, 18);
             this.labNome.TabIndex = 72;
@@ -395,7 +367,7 @@
             // 
             this.labUsuario.AutoSize = true;
             this.labUsuario.Font = new System.Drawing.Font("Franklin Gothic Book", 10F);
-            this.labUsuario.Location = new System.Drawing.Point(182, 59);
+            this.labUsuario.Location = new System.Drawing.Point(488, 115);
             this.labUsuario.Name = "labUsuario";
             this.labUsuario.Size = new System.Drawing.Size(53, 18);
             this.labUsuario.TabIndex = 73;
@@ -410,9 +382,6 @@
             this.Controls.Add(this.labUsuario);
             this.Controls.Add(this.labNome);
             this.Controls.Add(this.labEmail);
-            this.Controls.Add(this.label8);
-            this.Controls.Add(this.label9);
-            this.Controls.Add(this.label10);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.senhaAtual);
             this.Controls.Add(this.label5);
@@ -475,9 +444,6 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.TextBox senhaAtual;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label labEmail;
         private System.Windows.Forms.Label labNome;
         private System.Windows.Forms.Label labUsuario;
