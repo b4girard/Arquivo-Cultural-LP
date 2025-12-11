@@ -146,6 +146,42 @@
     <Compile Include="FrmEntrada.Designer.cs">
       <DependentUpon>FrmEntrada.cs</DependentUpon>
     </Compile>
+    <Compile Include="user\reviewFilmes\The Good Father\FrmAvaliacaoTheGoodFather.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user\reviewFilmes\The Good Father\FrmAvaliacaoTheGoodFather.Designer.cs">
+      <DependentUpon>FrmAvaliacaoTheGoodFather.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user\reviewFilmes\The Good Father\FrmVerTheGoodFather.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user\reviewFilmes\The Good Father\FrmVerTheGoodFather.Designer.cs">
+      <DependentUpon>FrmVerTheGoodFather.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user\reviewFilmes\Wicked For Good\FrmAvaliacaoWickedForGood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user\reviewFilmes\Wicked For Good\FrmAvaliacaoWickedForGood.Designer.cs">
+      <DependentUpon>FrmAvaliacaoWickedForGood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user\reviewFilmes\Wicked For Good\FrmVerWickedForGood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user\reviewFilmes\Wicked For Good\FrmVerWickedForGood.Designer.cs">
+      <DependentUpon>FrmVerWickedForGood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user\reviewLivros\Amendoas\FrmAvaliacaoAmendoas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user\reviewLivros\Amendoas\FrmAvaliacaoAmendoas.Designer.cs">
+      <DependentUpon>FrmAvaliacaoAmendoas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user\reviewLivros\Jantar Secreto\FrmAvaliacaoJantarSecreto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user\reviewLivros\Jantar Secreto\FrmAvaliacaoJantarSecreto.Designer.cs">
+      <DependentUpon>FrmAvaliacaoJantarSecreto.cs</DependentUpon>
+    </Compile>
     <Compile Include="user\sugestao\FrmSugestãoFilme.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -161,17 +197,17 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sessao.cs" />
-    <Compile Include="user\reviewLivros\FrmAvaliacaoJantarSecreto.cs">
+    <Compile Include="user\reviewLivros\Jantar Secreto\FrmVerJantarSecreto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="user\reviewLivros\FrmAvaliacaoJantarSecreto.Designer.cs">
-      <DependentUpon>FrmAvaliacaoJantarSecreto.cs</DependentUpon>
+    <Compile Include="user\reviewLivros\Jantar Secreto\FrmVerJantarSecreto.Designer.cs">
+      <DependentUpon>FrmVerJantarSecreto.cs</DependentUpon>
     </Compile>
-    <Compile Include="user\reviewLivros\FrmAvaliacaoAmendoas.cs">
+    <Compile Include="user\reviewLivros\Amendoas\FrmVerAmendoas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="user\reviewLivros\FrmAvaliacaoAmendoas.Designer.cs">
-      <DependentUpon>FrmAvaliacaoAmendoas.cs</DependentUpon>
+    <Compile Include="user\reviewLivros\Amendoas\FrmVerAmendoas.Designer.cs">
+      <DependentUpon>FrmVerAmendoas.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="user\FrmCriarLista.resx">
       <DependentUpon>FrmCriarLista.cs</DependentUpon>
@@ -197,6 +233,24 @@
     <EmbeddedResource Include="FrmEntrada.resx">
       <DependentUpon>FrmEntrada.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="user\reviewFilmes\The Good Father\FrmAvaliacaoTheGoodFather.resx">
+      <DependentUpon>FrmAvaliacaoTheGoodFather.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user\reviewFilmes\The Good Father\FrmVerTheGoodFather.resx">
+      <DependentUpon>FrmVerTheGoodFather.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user\reviewFilmes\Wicked For Good\FrmAvaliacaoWickedForGood.resx">
+      <DependentUpon>FrmAvaliacaoWickedForGood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user\reviewFilmes\Wicked For Good\FrmVerWickedForGood.resx">
+      <DependentUpon>FrmVerWickedForGood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user\reviewLivros\Amendoas\FrmAvaliacaoAmendoas.resx">
+      <DependentUpon>FrmAvaliacaoAmendoas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user\reviewLivros\Jantar Secreto\FrmAvaliacaoJantarSecreto.resx">
+      <DependentUpon>FrmAvaliacaoJantarSecreto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="user\sugestao\FrmSugestãoFilme.resx">
       <DependentUpon>FrmSugestãoFilme.cs</DependentUpon>
     </EmbeddedResource>
@@ -211,12 +265,13 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="user\reviewLivros\FrmAvaliacaoAmendoas.resx">
-      <DependentUpon>FrmAvaliacaoAmendoas.cs</DependentUpon>
+    <EmbeddedResource Include="user\reviewLivros\Amendoas\FrmVerAmendoas.resx">
+      <DependentUpon>FrmVerAmendoas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="user\reviewLivros\FrmAvaliacaoJantarSecreto.resx">
-      <DependentUpon>FrmAvaliacaoJantarSecreto.cs</DependentUpon>
+    <EmbeddedResource Include="user\reviewLivros\Jantar Secreto\FrmVerJantarSecreto.resx">
+      <DependentUpon>FrmVerJantarSecreto.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -233,12 +288,16 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="database\BD_Trabalho LP.sql" />
+    <None Include="database\imagens_filme\693055b21cded_692f95314498f_o_poderoso_cgefao.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="database\imagens_livro\" />
-    <Folder Include="database\imagens_sugestao_filme\" />
-    <Folder Include="database\imagens_sugestao_livro\" />
+    <None Include="database\imagens_livro\amendoas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="database\imagens_livro\692b7bc6a845e_jantar_secreto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="database\imagens_filme\693055c050206_692f96f3d21eb_wicked2.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

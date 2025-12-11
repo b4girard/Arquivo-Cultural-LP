@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\user"
   ],
-  "SelectedNode": "\\src\\Registrador Filmes e Livros.sln",
+  "SelectedNode": "\\src\\user\\FrmPerfil.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -16,5 +16,12 @@ namespace Trabalho_Programacao
         {
             InitializeComponent();
         }
+
+        private void homeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var home = new FrmHome();
+            home.Show();
+            this.Hide();
+        }
     }
 }

@@ -267,7 +267,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(117, 471);
+            this.menuStrip1.Size = new System.Drawing.Size(124, 471);
             this.menuStrip1.TabIndex = 15;
             this.menuStrip1.Text = "Area Administrador";
             // 
@@ -277,8 +277,9 @@
             this.AreaADMToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("AreaADMToolStripMenuItem.Image")));
             this.AreaADMToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.AreaADMToolStripMenuItem.Name = "AreaADMToolStripMenuItem";
-            this.AreaADMToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
+            this.AreaADMToolStripMenuItem.Size = new System.Drawing.Size(115, 24);
             this.AreaADMToolStripMenuItem.Text = "Minha Área";
+            this.AreaADMToolStripMenuItem.Click += new System.EventHandler(this.AreaADMToolStripMenuItem_Click);
             // 
             // cadastroToolStripMenuItem
             // 

@@ -77,7 +77,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(117, 471);
+            this.menuStrip1.Size = new System.Drawing.Size(124, 471);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -91,29 +91,32 @@
             this.minhaAreaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("minhaAreaToolStripMenuItem.Image")));
             this.minhaAreaToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.minhaAreaToolStripMenuItem.Name = "minhaAreaToolStripMenuItem";
-            this.minhaAreaToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
+            this.minhaAreaToolStripMenuItem.Size = new System.Drawing.Size(115, 24);
             this.minhaAreaToolStripMenuItem.Text = "Minha Área";
             // 
             // perfilUSUARIOToolStripMenuItem
             // 
             this.perfilUSUARIOToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("perfilUSUARIOToolStripMenuItem.Image")));
             this.perfilUSUARIOToolStripMenuItem.Name = "perfilUSUARIOToolStripMenuItem";
-            this.perfilUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(165, 24);
+            this.perfilUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
             this.perfilUSUARIOToolStripMenuItem.Text = "Perfil";
+            this.perfilUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.perfilUSUARIOToolStripMenuItem_Click);
             // 
             // criarListaToolStripMenuItem
             // 
             this.criarListaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("criarListaToolStripMenuItem.Image")));
             this.criarListaToolStripMenuItem.Name = "criarListaToolStripMenuItem";
-            this.criarListaToolStripMenuItem.Size = new System.Drawing.Size(165, 24);
+            this.criarListaToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
             this.criarListaToolStripMenuItem.Text = "Criar Lista";
+            this.criarListaToolStripMenuItem.Click += new System.EventHandler(this.criarListaToolStripMenuItem_Click);
             // 
             // minhasListasToolStripMenuItem
             // 
             this.minhasListasToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("minhasListasToolStripMenuItem.Image")));
             this.minhasListasToolStripMenuItem.Name = "minhasListasToolStripMenuItem";
-            this.minhasListasToolStripMenuItem.Size = new System.Drawing.Size(165, 24);
+            this.minhasListasToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
             this.minhasListasToolStripMenuItem.Text = "Minhas Listas";
+            this.minhasListasToolStripMenuItem.Click += new System.EventHandler(this.minhasListasToolStripMenuItem_Click);
             // 
             // SugestãoToolStripMenuItem
             // 
@@ -124,22 +127,24 @@
             this.SugestãoToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("SugestãoToolStripMenuItem.Image")));
             this.SugestãoToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.SugestãoToolStripMenuItem.Name = "SugestãoToolStripMenuItem";
-            this.SugestãoToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
+            this.SugestãoToolStripMenuItem.Size = new System.Drawing.Size(115, 24);
             this.SugestãoToolStripMenuItem.Text = "Sugestão";
             // 
             // livrosUSUARIOToolStripMenuItem
             // 
             this.livrosUSUARIOToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("livrosUSUARIOToolStripMenuItem.Image")));
             this.livrosUSUARIOToolStripMenuItem.Name = "livrosUSUARIOToolStripMenuItem";
-            this.livrosUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(119, 24);
+            this.livrosUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
             this.livrosUSUARIOToolStripMenuItem.Text = "Livros";
+            this.livrosUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.livrosUSUARIOToolStripMenuItem_Click);
             // 
             // filmesUSUARIOToolStripMenuItem
             // 
             this.filmesUSUARIOToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("filmesUSUARIOToolStripMenuItem.Image")));
             this.filmesUSUARIOToolStripMenuItem.Name = "filmesUSUARIOToolStripMenuItem";
-            this.filmesUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(119, 24);
+            this.filmesUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
             this.filmesUSUARIOToolStripMenuItem.Text = "Filmes";
+            this.filmesUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.filmesUSUARIOToolStripMenuItem_Click);
             // 
             // btnposter
             // 

@@ -90,7 +90,6 @@ namespace Trabalho_Programacao
                         {
                             string tipo = dr["Tipo_usuario"].ToString();
 
-                            // 🟢 NOVO — salvar sessão
                             Sessao.ID_UsuarioLogado = Convert.ToInt32(dr["ID_usuario"]);
                             Sessao.NomeUsuario = dr["Nome"].ToString();
                             Sessao.TipoUsuario = tipo;
@@ -102,15 +101,15 @@ namespace Trabalho_Programacao
                             if (tipo == "administrador")
                             {
                                 FrmHomeADM homeADM = new FrmHomeADM();
-                                homeADM.ShowDialog();
+                                homeADM.Show();
                             }
                             else
                             {
                                 FrmHome home = new FrmHome();
-                                home.ShowDialog();
+                                home.Show();
                             }
 
-                            this.Show();
+                            this.Hide();
                         }
                         else
                         {

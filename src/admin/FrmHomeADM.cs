@@ -25,12 +25,14 @@ namespace Trabalho_Programacao
         {
             FrmLivro livro = new FrmLivro();
             livro.Show();
+            this.Hide();
         }
 
         private void FilmesToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
             FrmFilme filme = new FrmFilme();
             filme.Show();
+            this.Hide();
         }
     }
 }

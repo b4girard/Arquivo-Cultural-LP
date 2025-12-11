@@ -243,12 +243,14 @@ namespace Trabalho_Programacao
         {
             FrmLivro livro = new FrmLivro();
             livro.Show();
+            this.Hide();
         }
 
         private void FilmesToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FrmFilme filme = new FrmFilme();
             filme.Show();
+            this.Hide();
         }
 
         private void FrmLivro_Load(object sender, EventArgs e)
@@ -272,6 +274,11 @@ namespace Trabalho_Programacao
         }
 
         private void FrmLivro_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AreaADMToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }

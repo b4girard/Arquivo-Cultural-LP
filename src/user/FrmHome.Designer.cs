@@ -37,11 +37,19 @@
             this.SugestãoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.livrosUSUARIOToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.filmesUSUARIOToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.avaliarjantarsecreto = new System.Windows.Forms.Button();
+            this.homeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.infojantarsecreto = new System.Windows.Forms.Button();
+            this.infoamendoas = new System.Windows.Forms.Button();
+            this.infowicked = new System.Windows.Forms.Button();
+            this.infothegoodfather = new System.Windows.Forms.Button();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.avaliaramendoas = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.logout = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -54,10 +62,12 @@
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.minhaAreaToolStripMenuItem,
-            this.SugestãoToolStripMenuItem});
+            this.SugestãoToolStripMenuItem,
+            this.homeToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(119, 471);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(124, 471);
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -71,7 +81,7 @@
             this.minhaAreaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("minhaAreaToolStripMenuItem.Image")));
             this.minhaAreaToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.minhaAreaToolStripMenuItem.Name = "minhaAreaToolStripMenuItem";
-            this.minhaAreaToolStripMenuItem.Size = new System.Drawing.Size(106, 24);
+            this.minhaAreaToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
             this.minhaAreaToolStripMenuItem.Text = "Minha Área";
             this.minhaAreaToolStripMenuItem.Click += new System.EventHandler(this.minhaAreaToolStripMenuItem_Click);
             // 
@@ -108,7 +118,7 @@
             this.SugestãoToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("SugestãoToolStripMenuItem.Image")));
             this.SugestãoToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.SugestãoToolStripMenuItem.Name = "SugestãoToolStripMenuItem";
-            this.SugestãoToolStripMenuItem.Size = new System.Drawing.Size(106, 24);
+            this.SugestãoToolStripMenuItem.Size = new System.Drawing.Size(108, 24);
             this.SugestãoToolStripMenuItem.Text = "Sugestão";
             this.SugestãoToolStripMenuItem.Click += new System.EventHandler(this.cadastroToolStripMenuItem_Click);
             // 
@@ -128,22 +138,96 @@
             this.filmesUSUARIOToolStripMenuItem.Text = "Filmes";
             this.filmesUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.filmesToolStripMenuItem_Click);
             // 
-            // avaliarjantarsecreto
+            // homeToolStripMenuItem
             // 
-            this.avaliarjantarsecreto.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            this.avaliarjantarsecreto.FlatAppearance.BorderSize = 0;
-            this.avaliarjantarsecreto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.avaliarjantarsecreto.Font = new System.Drawing.Font("Franklin Gothic Book", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.avaliarjantarsecreto.Location = new System.Drawing.Point(405, 177);
-            this.avaliarjantarsecreto.Name = "avaliarjantarsecreto";
-            this.avaliarjantarsecreto.Size = new System.Drawing.Size(116, 33);
-            this.avaliarjantarsecreto.TabIndex = 11;
-            this.avaliarjantarsecreto.Text = "Avaliar";
-            this.avaliarjantarsecreto.UseVisualStyleBackColor = false;
-            this.avaliarjantarsecreto.Click += new System.EventHandler(this.avaliarjantarsecreto_Click);
+            this.homeToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("homeToolStripMenuItem.Image")));
+            this.homeToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.homeToolStripMenuItem.Name = "homeToolStripMenuItem";
+            this.homeToolStripMenuItem.Size = new System.Drawing.Size(115, 24);
+            this.homeToolStripMenuItem.Text = "Home";
+            this.homeToolStripMenuItem.Click += new System.EventHandler(this.homeToolStripMenuItem_Click);
+            // 
+            // infojantarsecreto
+            // 
+            this.infojantarsecreto.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.infojantarsecreto.FlatAppearance.BorderSize = 0;
+            this.infojantarsecreto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.infojantarsecreto.Font = new System.Drawing.Font("Franklin Gothic Book", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.infojantarsecreto.Location = new System.Drawing.Point(405, 177);
+            this.infojantarsecreto.Name = "infojantarsecreto";
+            this.infojantarsecreto.Size = new System.Drawing.Size(116, 33);
+            this.infojantarsecreto.TabIndex = 11;
+            this.infojantarsecreto.Text = "Informações";
+            this.infojantarsecreto.UseVisualStyleBackColor = false;
+            this.infojantarsecreto.Click += new System.EventHandler(this.avaliarjantarsecreto_Click);
+            // 
+            // infoamendoas
+            // 
+            this.infoamendoas.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.infoamendoas.Cursor = System.Windows.Forms.Cursors.Default;
+            this.infoamendoas.FlatAppearance.BorderSize = 0;
+            this.infoamendoas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.infoamendoas.Font = new System.Drawing.Font("Franklin Gothic Book", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.infoamendoas.Location = new System.Drawing.Point(200, 177);
+            this.infoamendoas.Name = "infoamendoas";
+            this.infoamendoas.Size = new System.Drawing.Size(116, 33);
+            this.infoamendoas.TabIndex = 9;
+            this.infoamendoas.Text = "Informações";
+            this.infoamendoas.UseVisualStyleBackColor = false;
+            this.infoamendoas.Click += new System.EventHandler(this.avaliaramendoas_Click);
+            // 
+            // infowicked
+            // 
+            this.infowicked.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.infowicked.FlatAppearance.BorderSize = 0;
+            this.infowicked.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.infowicked.Font = new System.Drawing.Font("Franklin Gothic Book", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.infowicked.Location = new System.Drawing.Point(405, 356);
+            this.infowicked.Name = "infowicked";
+            this.infowicked.Size = new System.Drawing.Size(116, 33);
+            this.infowicked.TabIndex = 15;
+            this.infowicked.Text = "Informações";
+            this.infowicked.UseVisualStyleBackColor = false;
+            this.infowicked.Click += new System.EventHandler(this.infowicked_Click);
+            // 
+            // infothegoodfather
+            // 
+            this.infothegoodfather.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.infothegoodfather.Cursor = System.Windows.Forms.Cursors.Default;
+            this.infothegoodfather.FlatAppearance.BorderSize = 0;
+            this.infothegoodfather.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.infothegoodfather.Font = new System.Drawing.Font("Franklin Gothic Book", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.infothegoodfather.Location = new System.Drawing.Point(200, 356);
+            this.infothegoodfather.Name = "infothegoodfather";
+            this.infothegoodfather.Size = new System.Drawing.Size(116, 33);
+            this.infothegoodfather.TabIndex = 13;
+            this.infothegoodfather.Text = "Informações";
+            this.infothegoodfather.UseVisualStyleBackColor = false;
+            this.infothegoodfather.Click += new System.EventHandler(this.infothegoodfather_Click);
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::Trabalho_Programacao.Properties.Resources._693055c050206_692f96f3d21eb_wicked2;
+            this.pictureBox3.Location = new System.Drawing.Point(405, 217);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(116, 133);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 14;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::Trabalho_Programacao.Properties.Resources._693055b21cded_692f95314498f_o_poderoso_cgefao;
+            this.pictureBox4.Location = new System.Drawing.Point(200, 217);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(116, 133);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 12;
+            this.pictureBox4.TabStop = false;
             // 
             // pictureBox2
             // 
+            this.pictureBox2.Image = global::Trabalho_Programacao.Properties.Resources._692b7bc6a845e_jantar_secreto;
             this.pictureBox2.Location = new System.Drawing.Point(405, 38);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(116, 133);
@@ -151,23 +235,9 @@
             this.pictureBox2.TabIndex = 10;
             this.pictureBox2.TabStop = false;
             // 
-            // avaliaramendoas
-            // 
-            this.avaliaramendoas.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            this.avaliaramendoas.Cursor = System.Windows.Forms.Cursors.Default;
-            this.avaliaramendoas.FlatAppearance.BorderSize = 0;
-            this.avaliaramendoas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.avaliaramendoas.Font = new System.Drawing.Font("Franklin Gothic Book", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.avaliaramendoas.Location = new System.Drawing.Point(200, 177);
-            this.avaliaramendoas.Name = "avaliaramendoas";
-            this.avaliaramendoas.Size = new System.Drawing.Size(116, 33);
-            this.avaliaramendoas.TabIndex = 9;
-            this.avaliaramendoas.Text = "Avaliar";
-            this.avaliaramendoas.UseVisualStyleBackColor = false;
-            this.avaliaramendoas.Click += new System.EventHandler(this.avaliaramendoas_Click);
-            // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::Trabalho_Programacao.Properties.Resources.amendoas;
             this.pictureBox1.Location = new System.Drawing.Point(200, 38);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(116, 133);
@@ -175,15 +245,34 @@
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
             // 
+            // logout
+            // 
+            this.logout.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.logout.FlatAppearance.BorderSize = 0;
+            this.logout.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.logout.Location = new System.Drawing.Point(1029, 417);
+            this.logout.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.logout.Name = "logout";
+            this.logout.Size = new System.Drawing.Size(95, 43);
+            this.logout.TabIndex = 16;
+            this.logout.Text = "Logout";
+            this.logout.UseVisualStyleBackColor = false;
+            this.logout.Click += new System.EventHandler(this.logout_Click);
+            // 
             // FrmHome
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSlateGray;
             this.ClientSize = new System.Drawing.Size(1135, 471);
-            this.Controls.Add(this.avaliarjantarsecreto);
+            this.Controls.Add(this.logout);
+            this.Controls.Add(this.infowicked);
+            this.Controls.Add(this.pictureBox3);
+            this.Controls.Add(this.infothegoodfather);
+            this.Controls.Add(this.pictureBox4);
+            this.Controls.Add(this.infojantarsecreto);
             this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.avaliaramendoas);
+            this.Controls.Add(this.infoamendoas);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.menuStrip1);
             this.Name = "FrmHome";
@@ -192,6 +281,8 @@
             this.Load += new System.EventHandler(this.FrmHome_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -209,9 +300,15 @@
         private System.Windows.Forms.ToolStripMenuItem criarListaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem minhasListasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem perfilUSUARIOToolStripMenuItem;
-        private System.Windows.Forms.Button avaliarjantarsecreto;
+        private System.Windows.Forms.Button infojantarsecreto;
         private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.Button avaliaramendoas;
+        private System.Windows.Forms.Button infoamendoas;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button infowicked;
+        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.Button infothegoodfather;
+        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.Button logout;
+        private System.Windows.Forms.ToolStripMenuItem homeToolStripMenuItem;
     }
 }

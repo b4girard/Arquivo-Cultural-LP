@@ -208,3 +208,63 @@ C:\Users\rosso\Documents\Registrador Livros e Filmes - LP\movies-and-books-log-m
 C:\Users\rosso\Documents\Registrador Livros e Filmes - LP\movies-and-books-log-main\src\obj\Debug\Registra.864078D6.Up2Date
 C:\Users\rosso\Documents\Registrador Livros e Filmes - LP\movies-and-books-log-main\src\obj\Debug\Trabalho Programacao.exe
 C:\Users\rosso\Documents\Registrador Livros e Filmes - LP\movies-and-books-log-main\src\obj\Debug\Trabalho Programacao.pdb
+D:\Arquivo-Cultural-LP\src\bin\Debug\Trabalho Programacao.exe.config
+D:\Arquivo-Cultural-LP\src\bin\Debug\Trabalho Programacao.exe
+D:\Arquivo-Cultural-LP\src\bin\Debug\Trabalho Programacao.pdb
+D:\Arquivo-Cultural-LP\src\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\Google.Protobuf.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\K4os.Compression.LZ4.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\K4os.Hash.xxHash.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\MySql.Data.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Buffers.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.IO.Pipelines.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Memory.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Numerics.Vectors.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\ZstdSharp.dll
+D:\Arquivo-Cultural-LP\src\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\Google.Protobuf.pdb
+D:\Arquivo-Cultural-LP\src\bin\Debug\Google.Protobuf.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\K4os.Compression.LZ4.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\K4os.Hash.xxHash.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\MySql.Data.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Buffers.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.IO.Pipelines.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Memory.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Numerics.Vectors.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Arquivo-Cultural-LP\src\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Arquivo-Cultural-LP\src\obj\Debug\Registrador Filmes e Livros.csproj.AssemblyReference.cache
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.FrmCriarLista.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.FrmFilme.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.FrmHome.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.FrmHomeADM.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.FrmLivro.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.FrmPerfil.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.FrmMinhasListas.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.FrmEntrada.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.FrmSugestaoFilme.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.FrmSugestaoLivro.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.Properties.Resources.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Registrador Filmes e Livros.csproj.GenerateResource.cache
+D:\Arquivo-Cultural-LP\src\obj\Debug\Registrador Filmes e Livros.csproj.CoreCompileInputs.cache
+D:\Arquivo-Cultural-LP\src\obj\Debug\Registra.864078D6.Up2Date
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho Programacao.exe
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho Programacao.pdb
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.user.reviewFilmes.FrmVerTheGoodFather.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.user.reviewFilmes.The_Good_Father.FrmAvaliacaoTheGoodFather.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.user.reviewLivros.Amendoas.FrmAvaliacaoAmendoas.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.user.reviewLivros.Jantar_Secreto.FrmAvaliacaoJantarSecreto.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.Usuario.Avaliacoes_Livros.FrmVerAmendoas.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.Usuario.Avaliacoes_Livros.FrmVerJantarSecreto.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.user.reviewFilmes.Wicked_For_Good.FrmAvaliacaoWickedForGood.resources
+D:\Arquivo-Cultural-LP\src\obj\Debug\Trabalho_Programacao.user.reviewFilmes.FrmVerWickedForGood.resources

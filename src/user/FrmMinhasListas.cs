@@ -25,7 +25,7 @@ namespace Trabalho_Programacao
 
         private void perfilUSUARIOToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FrmPerfil perfil = new FrmPerfil();
+            FrmPerfil perfil = new FrmPerfil(Sessao.ID_UsuarioLogado);
             perfil.Show();
         }
 
@@ -49,6 +49,13 @@ namespace Trabalho_Programacao
         private void livrosUSUARIOToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void homeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var home = new FrmHome();
+            home.Show();
+            this.Hide();
         }
     }
 }

@@ -80,7 +80,7 @@ namespace Trabalho_Programacao
             this.SugestãoToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(119, 471);
+            this.menuStrip1.Size = new System.Drawing.Size(126, 471);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -93,7 +93,7 @@ namespace Trabalho_Programacao
             this.minhaAreaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("minhaAreaToolStripMenuItem.Image")));
             this.minhaAreaToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.minhaAreaToolStripMenuItem.Name = "minhaAreaToolStripMenuItem";
-            this.minhaAreaToolStripMenuItem.Size = new System.Drawing.Size(106, 24);
+            this.minhaAreaToolStripMenuItem.Size = new System.Drawing.Size(113, 24);
             this.minhaAreaToolStripMenuItem.Text = "Minha Área";
             // 
             // perfilUSUARIOToolStripMenuItem
@@ -102,6 +102,7 @@ namespace Trabalho_Programacao
             this.perfilUSUARIOToolStripMenuItem.Name = "perfilUSUARIOToolStripMenuItem";
             this.perfilUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
             this.perfilUSUARIOToolStripMenuItem.Text = "Perfil";
+            this.perfilUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.perfilUSUARIOToolStripMenuItem_Click);
             // 
             // criarListaToolStripMenuItem
             // 
@@ -109,6 +110,7 @@ namespace Trabalho_Programacao
             this.criarListaToolStripMenuItem.Name = "criarListaToolStripMenuItem";
             this.criarListaToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
             this.criarListaToolStripMenuItem.Text = "Criar Lista";
+            this.criarListaToolStripMenuItem.Click += new System.EventHandler(this.criarListaToolStripMenuItem_Click);
             // 
             // minhasListasToolStripMenuItem
             // 
@@ -116,6 +118,7 @@ namespace Trabalho_Programacao
             this.minhasListasToolStripMenuItem.Name = "minhasListasToolStripMenuItem";
             this.minhasListasToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
             this.minhasListasToolStripMenuItem.Text = "Minhas Listas";
+            this.minhasListasToolStripMenuItem.Click += new System.EventHandler(this.minhasListasToolStripMenuItem_Click);
             // 
             // SugestãoToolStripMenuItem
             // 
@@ -134,6 +137,7 @@ namespace Trabalho_Programacao
             this.livrosUSUARIOToolStripMenuItem.Name = "livrosUSUARIOToolStripMenuItem";
             this.livrosUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
             this.livrosUSUARIOToolStripMenuItem.Text = "Livros";
+            this.livrosUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.livrosUSUARIOToolStripMenuItem_Click);
             // 
             // filmesUSUARIOToolStripMenuItem
             // 
@@ -141,6 +145,7 @@ namespace Trabalho_Programacao
             this.filmesUSUARIOToolStripMenuItem.Name = "filmesUSUARIOToolStripMenuItem";
             this.filmesUSUARIOToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
             this.filmesUSUARIOToolStripMenuItem.Text = "Filmes";
+            this.filmesUSUARIOToolStripMenuItem.Click += new System.EventHandler(this.filmesUSUARIOToolStripMenuItem_Click);
             // 
             // btncapa
             // 

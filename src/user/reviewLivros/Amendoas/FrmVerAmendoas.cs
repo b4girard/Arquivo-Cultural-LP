@@ -1,0 +1,146 @@
+﻿using MySql.Data.MySqlClient;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+using Trabalho_Programacao.user.reviewFilmes.Wicked_For_Good;
+using Trabalho_Programacao.user.reviewLivros.Amendoas;
+
+namespace Trabalho_Programacao.Usuario.Avaliacoes_Livros
+{
+    public partial class FrmVerAmendoas : Form
+    {
+        private MySqlConnection bdCon;
+
+        private string StringConexao()
+        {
+            return "server=localhost; database=REGISTRADOR_FILMES_LIVROS_LP; uid=root; pwd=;";
+        }
+        private int livro_ID;
+        private int usuario_ID;
+
+
+        public FrmVerAmendoas(int livroID, int usuarioID)
+        {
+            InitializeComponent();
+
+            if (usuarioID <= 0)
+            {
+                MessageBox.Show("Você precisa estar logado para acessar esta página.");
+                this.Close();
+                return;
+            }
+
+            livro_ID = livroID;
+            usuario_ID = usuarioID;
+
+            CarregarLivro();
+            CarregarAvaliacao();
+        }
+
+        private void CarregarLivro()
+        {
+            try
+            {
+                using (MySqlConnection bdConn = new MySqlConnection(StringConexao()))
+                {
+                    bdConn.Open();
+                    string sql = "SELECT ISBN, Titulo, Autor, Descricao,Idioma, Editora, N_Paginas FROM livro WHERE ID_Livro = @ID_Livro";
+
+                    using (var cmd = new MySqlCommand(sql, bdConn))
+                    {
+                        cmd.Parameters.AddWithValue("@ID_Livro", livro_ID);
+
+                        using (var dr = cmd.ExecuteReader())
+                        {
+                            if (dr.Read())
+                            {
+                                isbn.Text = dr.GetString("ISBN");
+                                titulo.Text = dr.GetString("Titulo");
+                                autor.Text = dr.GetString("Autor");
+                                descricao.Text = dr.GetString("Descricao");
+                                idioma.Text = dr.GetString("Idioma");
+                                editora.Text = dr.GetString("Editora");
+                                int numeroDePaginas = dr.GetInt32("N_Paginas");
+                                n_pag.Text = dr.GetInt32("N_Paginas").ToString();
+                            }
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro ao carregar livro: " + ex.Message);
+            }
+        }
+
+        private void CarregarAvaliacao()
+        {
+
+            try
+            {
+                using (MySqlConnection bdConn = new MySqlConnection(StringConexao()))
+                {
+                    bdConn.Open();
+
+                    string sql = @"SELECT a.Comentario, a.Data_avaliacao, u.Nome
+                                   FROM Avaliacao a
+                                   JOIN Usuario u ON u.ID_usuario = a.ID_usuario
+                                   WHERE a.ID_livro = @livro
+                                   ORDER BY a.Data_avaliacao DESC";
+
+                    using (var cmd = new MySqlCommand(sql, bdConn))
+                    {
+                        cmd.Parameters.AddWithValue("@livro", livro_ID);
+
+                        using (var dr = cmd.ExecuteReader())
+                        {
+                            while (dr.Read())
+                            {
+                                string linha =
+                                    $"{dr.GetString("Usuario")} — {dr.GetDateTime("Data_avaliacao").ToString("dd/MM/yyyy")}\n" + " " +
+                                    $"{dr.GetString("Comentario")}";
+
+                                listComentarios.Items.Add(linha);
+                            }
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro ao carregar comentários: " + ex.Message);
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var avaliar = new FrmAvaliacaoAmendoas(livro_ID,usuario_ID);
+            avaliar.Show();
+            this.Hide();
+        }
+
+        private void sair_Click(object sender, EventArgs e)
+        {
+            var home = new FrmHome();
+            home.Show();
+            this.Hide();
+        }
+
+        private void capa_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listComentarios_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rosso\\Source\\Repos\\Registrador-Filmes-e-Livros-LP\\src\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Arquivo-Cultural-LP\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\arquivo-cultural-lp\\src\\user\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\arquivo-cultural-lp\\src\\frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\arquivo-cultural-lp\\src\\frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|D:\\Arquivo-Cultural-LP\\src\\user\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\arquivo-cultural-lp\\src\\user\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\arquivo-cultural-lp\\src\\user\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|d:\\arquivo-cultural-lp\\src\\user\\frmcriarlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4658894E-1C4C-4586-BAE1-6FA89F1C96FF}|Registrador Filmes e Livros.csproj|solutionrelative:user\\frmcriarlista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +51,94 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmEntrada.cs",
+              "DocumentMoniker": "D:\\Arquivo-Cultural-LP\\src\\FrmEntrada.cs",
+              "RelativeDocumentMoniker": "FrmEntrada.cs",
+              "ToolTip": "D:\\Arquivo-Cultural-LP\\src\\FrmEntrada.cs",
+              "RelativeToolTip": "FrmEntrada.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvxwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T22:44:57.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmEntrada.cs [Design]",
+              "DocumentMoniker": "D:\\Arquivo-Cultural-LP\\src\\FrmEntrada.cs",
+              "RelativeDocumentMoniker": "FrmEntrada.cs",
+              "ToolTip": "D:\\Arquivo-Cultural-LP\\src\\FrmEntrada.cs [Design]",
+              "RelativeToolTip": "FrmEntrada.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T22:44:54.766Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "D:\\Arquivo-Cultural-LP\\src\\user\\FrmHome.cs",
+              "RelativeDocumentMoniker": "user\\FrmHome.cs",
+              "ToolTip": "D:\\Arquivo-Cultural-LP\\src\\user\\FrmHome.cs [Design]",
+              "RelativeToolTip": "user\\FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:13:36.724Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPerfil.cs",
+              "DocumentMoniker": "D:\\Arquivo-Cultural-LP\\src\\user\\FrmPerfil.cs",
+              "RelativeDocumentMoniker": "user\\FrmPerfil.cs",
+              "ToolTip": "D:\\Arquivo-Cultural-LP\\src\\user\\FrmPerfil.cs",
+              "RelativeToolTip": "user\\FrmPerfil.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwP8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:43:38.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "D:\\Arquivo-Cultural-LP\\src\\user\\FrmHome.cs",
+              "RelativeDocumentMoniker": "user\\FrmHome.cs",
+              "ToolTip": "D:\\Arquivo-Cultural-LP\\src\\user\\FrmHome.cs",
+              "RelativeToolTip": "user\\FrmHome.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAADgv2cAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:13:39.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPerfil.cs [Design]",
+              "DocumentMoniker": "D:\\Arquivo-Cultural-LP\\src\\user\\FrmPerfil.cs",
+              "RelativeDocumentMoniker": "user\\FrmPerfil.cs",
+              "ToolTip": "D:\\Arquivo-Cultural-LP\\src\\user\\FrmPerfil.cs [Design]",
+              "RelativeToolTip": "user\\FrmPerfil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:56:03.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmCriarLista.cs",
+              "DocumentMoniker": "D:\\Arquivo-Cultural-LP\\src\\user\\FrmCriarLista.cs",
+              "RelativeDocumentMoniker": "user\\FrmCriarLista.cs",
+              "ToolTip": "D:\\Arquivo-Cultural-LP\\src\\user\\FrmCriarLista.cs",
+              "RelativeToolTip": "user\\FrmCriarLista.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAhwBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:45:50.228Z",
+              "EditorCaption": ""
             }
           ]
         }

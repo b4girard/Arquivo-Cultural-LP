@@ -140,5 +140,40 @@ namespace Trabalho_Programacao
         {
 
         }
+
+        private void livrosUSUARIOToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmSugestaoLivro sugestãolivro = new FrmSugestaoLivro();
+            sugestãolivro.Show();
+            this.Hide();
+        }
+
+        private void filmesUSUARIOToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmSugestaoFilme sugestaoFilme = new FrmSugestaoFilme();
+            sugestaoFilme.Show();
+            this.Hide();
+        }
+
+        private void perfilUSUARIOToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmPerfil perfil = new FrmPerfil(Sessao.ID_UsuarioLogado);
+            perfil.Show();
+            this.Hide();
+        }
+
+        private void criarListaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmCriarLista criarLista = new FrmCriarLista();
+            criarLista.Show();
+            this.Hide();
+        }
+
+        private void minhasListasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmMinhasListas minhasListas = new FrmMinhasListas();
+            minhasListas.Show();
+            this.Hide();
+        }
     }
 }

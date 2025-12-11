@@ -16,7 +16,7 @@ namespace Trabalho_Programacao
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmLivro());
+            Application.Run(new FrmEntrada());
         }
     }
 }
